@@ -1,0 +1,30 @@
+.headline{
+text-align: center;
+}
+.additem{
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+}
+.heading input{
+width:250px;
+height: 20px;
+font-size: 15px;
+}
+.heading input:focus{
+  outline: none;
+}
+.heading .btn{
+height:26px;
+width:27px;
+}
+table,tr,th{
+  text-align: left;
+}
+.details ul li{
+list-style-type: none;
+}
+.details{
+  font-size: 1.5rem;
+}
